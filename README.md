@@ -490,4 +490,5 @@ Pour les erreurs de validation, le détail par champ est ajouté :
 
 ## Auteur
 
-Projet réalisé par **[Ton nom]**.
+Projet réalisé par KIEMTORE Bienvenue S Reine
+mail : bsidyassa@gmail.com
